@@ -1,3 +1,5 @@
+![Bannière Hélène Khalidi](./banniere_github.svg)
+
 [README_Profil_GitHub.md](https://github.com/user-attachments/files/28595923/README_Profil_GitHub.md)
 # Hélène Khalidi
 ### Data Analyst · Credit & Risk Analytics | FinTech & Banque
