@@ -1,10 +1,5 @@
-[README_Profil_GitHub.md](https://github.com/user-attachments/files/28594552/README_Profil_GitHub.md)
-## Hi there 👋
-
-<!--
-**helene-khalidi/helene-khalidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ide# Hélène Khalidi
+[README_Profil_GitHub.md](https://github.com/user-attachments/files/28595923/README_Profil_GitHub.md)
+# Hélène Khalidi
 ### Data Analyst · Credit & Risk Analytics | FinTech & Banque
 
 ---
@@ -89,7 +84,7 @@ Notebooks   : Jupyter
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hélène%20Khalidi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/helene-khalidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hélène%20Khalidi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helene-khalidi)
 [![GitHub](https://img.shields.io/badge/GitHub-helene--khalidi-181717?style=flat&logo=github&logoColor=white)](https://github.com/helene-khalidi)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
@@ -97,14 +92,3 @@ Notebooks   : Jupyter
 
 *© 2026 Hélène Khalidi · Data Analyst · Credit & Risk Analytics*
 *Tous droits réservés · CC BY-NC-ND 4.0*
-as to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
