@@ -6,21 +6,24 @@
 
 ---
 
-> *"J'ai instruit des centaines de dossiers de financement à la consommation à distance.
-> Aujourd'hui — je construis les outils avec les données."*
+> *"J'ai géré des milliers de dossiers de financement de A à Z —
+> de l'émission de l'offre à la validation scoring.
+> Aujourd'hui — je construis les modèles qui automatisent ces décisions."*
 
 ---
 
 ## 👤 Qui suis-je ?
 
-Ancienne conseillère en filiale spécialisée en **financement à la consommation à distance** — reconvertie **Data Analyst** avec une spécialisation **Credit & Risk Analytics**.
+Conseillère crédit en filiale spécialisée — **analyse et instruction de dossiers de financement** — plus de 15 ans d'expertise terrain — reconvertie **Data Analyst** avec une spécialisation **Credit & Risk Analytics**.
 
 Ce parcours est rare. Il est documenté dans chaque projet de ce portfolio.
 
 **Ce que ça signifie concrètement :**
-- J'ai instruit des dossiers de crédit → je construis des modèles de scoring
-- J'ai suivi des portefeuilles → je modélise la vintage analysis et l'Early Warning
-- J'ai vu les limites des outils → je construis les outils que j'aurais voulu avoir
+- Gestion complète du cycle crédit de A à Z → émission offre · contrôle pièces · validation scoring
+- Application des critères de scoring au quotidien → je construis maintenant les modèles
+- Support aux agences physiques · prêts étudiants · avance rentrée · décotes de taux DA/DGA/DR
+- Interface entre politique d'octroi et instruction opérationnelle → vision 360° du financement
+- J'ai vu les limites des outils de l'intérieur → je construis ceux que j'aurais voulu avoir
 
 ---
 
@@ -94,3 +97,8 @@ Notebooks   : Jupyter
 
 *© 2026 Hélène Khalidi · Data Analyst · Credit & Risk Analytics*
 *Tous droits réservés · CC BY-NC-ND 4.0*
+
+
+
+
+
